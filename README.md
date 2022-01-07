@@ -2,7 +2,7 @@
 
 ![Indicators4D Logo](Indicators4D.jpg)
 
-﻿Sample for Relative Strength Index (RSI) usage:
+### Sample for Relative Strength Index (RSI) usage:
 
 ```delphi
   var rsi := TRSI.Create(14);
@@ -12,7 +12,7 @@
   var serie := rsi.Calculate();
 ```
 
-Library includes the following implementations:
+### Library includes the following implementations:
 - Accumulation/Distribution (ADL) 
 - Average Directional Index (ADX)
 - Aroon
