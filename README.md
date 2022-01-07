@@ -1,4 +1,4 @@
-Technical analysis library for Delphi
+## Technical analysis library for Delphi
 
 ![Indicators4D Logo](Indicators4D.jpg)
 
