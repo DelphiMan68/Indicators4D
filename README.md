@@ -1,4 +1,4 @@
-![Indicators4D Logo](Indicators4D.png.png)
+![Indicators4D Logo](Indicators4D.png)
 
 Technical analysis library for Delphi
 
