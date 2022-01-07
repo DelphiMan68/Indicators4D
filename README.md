@@ -1,3 +1,5 @@
+![Indicators4D Logo](Indicators4D.png.png)
+
 Technical analysis library for Delphi
 
 ﻿Sample for Relative Strength Index (RSI) usage:
